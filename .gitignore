@@ -1,0 +1,17 @@
+# Eclipse workspace files
+.metadata/
+
+# Java compiled files
+*.class
+
+# Build folders
+bin/
+target/
+build/
+
+# College assignment/reference documents
+*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
