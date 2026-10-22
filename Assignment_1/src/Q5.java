@@ -8,6 +8,7 @@ public class Q5 {
 		int r=sc.nextInt();
 		System.out.println("Area of circle: "+(3.14*r*r));
 		System.out.println("Circumference of circle: "+(2*3.14*r));
+		sc.close();
 	}
 
 }
